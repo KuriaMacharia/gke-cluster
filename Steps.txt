@@ -1,0 +1,1 @@
+The process of creating GKE follows this official documentation: https://developer.hashicorp.com/terraform/tutorials/kubernetes/gke#clean-up-your-workspace
