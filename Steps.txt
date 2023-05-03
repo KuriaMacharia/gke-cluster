@@ -1,1 +1,7 @@
-The process of creating GKE follows this official documentation: https://developer.hashicorp.com/terraform/tutorials/kubernetes/gke#clean-up-your-workspace
+>> STEPS
+
+1. Enable compute engine API: https://console.developers.google.com/apis/api/compute.googleapis.com
+
+2. Enable conatiner service: gcloud services enable container.googleapis.com
+
+3. The process of creating GKE follows this official documentation: https://developer.hashicorp.com/terraform/tutorials/kubernetes/gke#clean-up-your-workspace
